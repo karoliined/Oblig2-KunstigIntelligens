@@ -16,6 +16,8 @@
   We found through this project that we could use RandomForest, though it might not be the most optimal algorithm for this use case.
 
 
-Karoline Dahl s359106 
+Karoline Dahl s359106
+
 Caleb Deane Karel Munchinsky s364730 
+
 Joacim Siring Sørlle s341549
